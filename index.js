@@ -23,6 +23,6 @@ function solvereact(l, b) {
 
 solvereact(4, 5);
 solvereact(0, 6);
-// solvereact(-3, 5);
-// solvereact(1, 51);
-// solvereact(4, 0);
+solvereact(-3, 5);
+solvereact(1, 51);
+solvereact(4, 0);
